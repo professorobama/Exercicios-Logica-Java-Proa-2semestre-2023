@@ -21,7 +21,7 @@ public class AWTExample1 extends Frame {
       setSize(300,300);  
   
       // setting the title of Frame  
-      setTitle("Sistema Unipaulistana");   
+      setTitle("Sistema Proa 2023");   
           
       // no layout manager   
       setLayout(null);   
